@@ -34,7 +34,7 @@ html {
     padding: 10px;
   }
 
-  td:hover, th:hover {
-    background-color: rgb(160, 160, 160) !important;
+  tr td:hover, th:hover {
+    background-color: rgb(160, 160, 160);
     font-weight: bold;
   }
